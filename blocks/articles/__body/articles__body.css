@@ -1,0 +1,12 @@
+.articles__body {
+  width: 730px;
+  height: 249px;
+  border-radius: 5px;
+  background-color: #fff;
+  margin: -130px auto 0 auto;
+  box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.1);
+  margin-bottom: 60px;
+  position: relative;
+  padding: 30px 80px 30px 30px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,5 @@
+.top-news__main-story {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}

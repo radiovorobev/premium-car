@@ -1,0 +1,15 @@
+.tag {
+  width: 62px;
+  height: 22px;
+  border-radius: 3px;
+  background-color: #4a90e2;
+  font-family: 'PT Sans';
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

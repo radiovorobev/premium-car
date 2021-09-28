@@ -1,0 +1,96 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__content/header__content.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/menu/__link/menu__link.css);
+
+@import url(../blocks/page/__content/page__content.css);
+
+@import url(../blocks/tag/tag.css);
+@import url(../blocks/tag/__place/tag_place_top-news.css);
+@import url(../blocks/tag/__place/tag_place_most-popular.css);
+@import url(../blocks/tag/__place/tag_place_popular-posts.css);
+
+@import url(../blocks/top-news/top-news.css);
+@import url(../blocks/top-news/__main-story/top-news__main-story.css);
+@import url(../blocks/top-news/__story/top-news__story.css);
+@import url(../blocks/top-news/__story-overlay/top-news__story-overlay.css);
+@import url(../blocks/top-news/__story-author-and-date/top-news__story-author-and-date.css);
+@import url(../blocks/top-news/__story-header/top-news__story-header.css);
+@import url(../blocks/top-news/__story-header/top-news__story-header_main.css);
+@import url(../blocks/top-news/__story/_subject/top-news__story_subject_1.css);
+@import url(../blocks/top-news/__story/_subject/top-news__story_subject_2.css);
+@import url(../blocks/top-news/__story/_subject/top-news__story_subject_3.css);
+@import url(../blocks/top-news/__story/_subject/top-news__story_subject_4.css);
+@import url(../blocks/top-news/__story/_subject/top-news__story_subject_5.css);
+
+@import url(../blocks/two-columns/two-columns.css);
+
+@import url(../blocks/sidebar/sidebar.css);
+@import url(../blocks/sidebar/__popular-post/sidebar__popular-post.css);
+@import url(../blocks/sidebar/__header/sidebar__header.css);
+@import url(../blocks/sidebar/__tags/sidebar__tags.css);
+@import url(../blocks/sidebar/__tags-item/sidebar__tags-item.css);
+@import url(../blocks/sidebar/__author/sidebar__author.css);
+@import url(../blocks/sidebar/__author-text/sidebar__author-text.css);
+@import url(../blocks/sidebar/__popular-post-header/sidebar__popular-post-header.css);
+@import url(../blocks/sidebar/__newsletter-text/sidebar__newsletter-text.css);
+
+@import url(../blocks/articles/__item/articles__item.css);
+@import url(../blocks/articles/__article-photo/articles__article-photo.css);
+@import url(../blocks/articles/__body/articles__body.css);
+@import url(../blocks/articles/__article-photo/_subject/articles__article-photo_subject_1.css);
+@import url(../blocks/articles/__article-photo/_subject/articles__article-photo_subject_2.css);
+@import url(../blocks/articles/__article-photo/_subject/articles__article-photo_subject_3.css);
+@import url(../blocks/articles/__article-photo/_subject/articles__article-photo_subject_4.css);
+@import url(../blocks/articles/__article-photo/_subject/articles__article-photo_subject_5.css);
+@import url(../blocks/articles/__header/articles__header.css);
+@import url(../blocks/articles/__text/articles__text.css);
+
+@import url(../blocks/pagination/pagination.css);
+@import url(../blocks/pagination/__item/pagination__item.css);
+@import url(../blocks/pagination/__item/pagination__item_inactive.css);
+@import url(../blocks/pagination/__item/pagination__item_current-item.css);
+
+@import url(../blocks/most-popular/most-popular.css);
+@import url(../blocks/most-popular/__header/most-popular__header.css);
+@import url(../blocks/most-popular/__container/most-popular__container.css);
+@import url(../blocks/most-popular/__item/most-popular__item.css);
+@import url(../blocks/most-popular/__item-image/most-popular__item-image.css);
+@import url(../blocks/most-popular/__item-header/most-popular__item-header.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__top/footer__top.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_recent-posts/footer__column_recent-posts.css);
+@import url(../blocks/footer/__header/footer__header.css);
+@import url(../blocks/footer/__recent-post-image/footer__recent-post-image.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__recent-posts/footer__recent-posts.css);
+@import url(../blocks/footer/__recent-post/footer__recent-post.css);
+@import url(../blocks/footer/__recent-posts-header/footer__recent-posts-header.css);
+
+@import url(../blocks/footer/__bottom/footer__bottom.css);
+@import url(../blocks/footer/__bottom-content/footer__bottom-content.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__social-icons/footer__social-icons.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/__icon/button__icon.css);
+
+@import url(../blocks/subscribe-form/subscribe-form.css); /* Empty */
+@import url(../blocks/subscribe-form/__input/subscribe-form__input.css);
+@import url(../blocks/subscribe-form/__input/_theme/subscribe-form__input_theme_dark.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__tag/logo__tag.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+
+@import url(../blocks/author-and-date/author-and-date.css);
+@import url(../blocks/author-and-date/_place/author-and-date_place_popular-posts.css);
+@import url(../blocks/author-and-date/_place/author-and-date_place_recent-posts.css);

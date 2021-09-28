@@ -1,0 +1,10 @@
+.logo__tag {
+  display: inline-flex;
+  width: 39px;
+  height: 23px;
+  background-color: #4a90e2;
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lato', Arial, sans-serif;
+}

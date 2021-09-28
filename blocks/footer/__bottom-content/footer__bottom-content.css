@@ -1,0 +1,9 @@
+.footer__bottom-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1170px;
+  margin: 0 auto;
+  height: 100%;
+
+}

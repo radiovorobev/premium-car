@@ -1,0 +1,8 @@
+.menu__item {
+  display: inline-block;
+  margin: 0 40px 0 0;
+}
+
+.menu__item:last-of-type {
+  margin: 0;
+}

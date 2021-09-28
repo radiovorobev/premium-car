@@ -1,0 +1,14 @@
+.menu__link {
+color: #fff;
+font-family: 'PTSans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+transition: opacity linear .2s;
+text-decoration: none;
+}
+
+.menu__link:hover {
+  opacity: .7;
+}
